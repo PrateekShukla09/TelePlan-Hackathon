@@ -1,0 +1,5 @@
+name,phone,tenureMonths,contractType,avgCallMin,dataGB,smsCount,roamingUsage,internationalUsage
+Rahul Sharma,+919800000001,12,postpaid,500,15,100,0,0
+Anita Roy,+919800000002,6,prepaid,200,5,50,0,0
+Vikram Patel,+919800000003,24,postpaid,1200,35,500,50,10
+Invalid Customer,+919800000004,5,postpaid,invalid,bad_data,50,0,0
