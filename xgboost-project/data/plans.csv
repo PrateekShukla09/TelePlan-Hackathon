@@ -1,0 +1,26 @@
+plan_id,plan_name,category,price,validity_days,data_per_day,total_data_gb,unlimited_data,unlimited_5g,unlimited_calls,night_unlimited,weekend_unlimited,ott_benefit,cloud_storage,education_benefit,gaming_benefit,social_benefit,hotspot_gb,isd_minutes,family_plan,business_plan
+P01,Essential Voice,Budget & Essential,199,28,0.0,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+P02,Essential Data,Budget & Essential,249,28,1.5,42,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+P03,Student Power,Budget & Essential,299,28,2.0,56,0,1,1,0,1,0,0,1,0,0,0,0,0,0
+P04,Voice Plus,Budget & Essential,299,56,0.0,20,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+P05,Senior Connect,Budget & Essential,249,56,0.0,10,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+P06,5G Freedom,Unlimited / 5G,349,28,2.0,56,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+P07,Infinity 4G/5G,Unlimited / 5G,399,28,0.0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+P08,Infinity Plus,Unlimited / 5G,449,28,0.0,0,1,0,1,0,0,1,1,0,0,0,0,0,0,0
+P09,Power 5G,Unlimited / 5G,499,56,2.0,112,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+P10,5G Long-Life,Unlimited / 5G,649,56,2.0,112,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+P11,Night Infinity,Behaviour-Based,299,28,2.0,56,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+P12,Night Power,Behaviour-Based,349,28,2.0,56,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+P13,Weekend Infinity,Behaviour-Based,399,28,2.0,56,0,1,1,0,1,1,0,0,0,0,0,0,0,0
+P14,Gamer Infinity,Behaviour-Based,449,28,0.0,0,1,0,1,1,0,0,0,0,1,0,0,0,0,0
+P15,Stream Infinity,Behaviour-Based,499,28,0.0,0,1,0,1,0,1,1,1,0,0,0,0,0,0,0
+P16,Social Infinity,Behaviour-Based,349,28,2.0,56,0,1,1,0,1,0,0,0,0,1,0,0,0,0
+P17,AI & Coding Pro,Professional / Specialised,499,28,0.0,0,1,0,1,0,1,0,1,1,0,0,0,0,0,1
+P18,Work From Anywhere,Professional / Specialised,549,28,0.0,0,1,0,1,0,0,0,1,0,0,0,100,0,0,1
+P19,Creator Pro,Professional / Specialised,599,28,0.0,0,1,0,1,0,1,0,1,0,0,0,150,0,0,1
+P20,Traveller Pro,Professional / Specialised,699,56,2.0,112,0,1,1,0,0,0,0,0,0,0,0,250,0,1
+P21,International Connect,Professional / Specialised,799,56,2.0,112,0,1,1,0,0,0,0,0,0,0,0,500,0,1
+P22,Family Share 3,Family / Premium / Long Validity,899,56,0.0,150,0,1,1,0,0,0,0,0,0,0,0,0,1,0
+P23,Family Max 4,Family / Premium / Long Validity,1499,90,0.0,300,0,1,1,0,0,0,0,0,0,0,0,0,1,0
+P24,Premium Infinity,Family / Premium / Long Validity,1999,90,0.0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0
+P25,Annual Infinity,Family / Premium / Long Validity,3999,365,2.0,730,0,1,1,0,1,1,1,0,0,0,0,0,0,0
